@@ -7,4 +7,16 @@ module.exports = {
   eslint:  {
     ignoreDuringBuilds: true,
  },
+ async redirects() {
+  return [
+    {
+      source: '/hello-vercel',
+      destination: 'https://vercel.com',
+      permanent: true,
+    },
+  ]
+ },
 }
+
+
+  
