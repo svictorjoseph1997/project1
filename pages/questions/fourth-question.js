@@ -8,7 +8,7 @@ export default function SeventhQuestiont() {
 path – but be sure to tell us which!) to https://vercel.com
 </h1>
 
-        <p>Unfortunately, I was unable to add the redirect. I have added more details about it in the email.</p>
+        <p>Please launch https://project1-wine.vercel.app/hello-vercel and it should redirect to https://vercel.com</p>
          
       <h2>
         <Link href="/">
