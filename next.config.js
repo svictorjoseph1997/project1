@@ -12,7 +12,7 @@ module.exports = {
     {
       source: '/hello-vercel',
       destination: 'https://vercel.com',
-      permanent: true,
+      permanent: false,
     },
   ]
  },
