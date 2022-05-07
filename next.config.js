@@ -4,13 +4,3 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-
-{
-  "redirects": [
-    { 
-      "source": "/hello-vercel",
-      "destination": "https:vercel.com", 
-      "permanent": false
-    }
-  ]
-}
