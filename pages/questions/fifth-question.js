@@ -16,8 +16,8 @@ respond?</h1>
          <p>We have acknowledged your request and understand that you need assistance to add a redirect from /hello-vercel to https://vercel.com. This can be achieved by using In-Application Redirects. Please follow the below steps to add this redirect to your website:</p>
          <p>1. Go to the configuration file ('next.config.js' configuration file for Next.js projects, or a 'vercel.json' file for all other use cases).</p>
          <p>2. Please add the following configs to the configuration file.</p> 
-            <p>     "source": '/hello-vercel', </p>
-            <p>    "destination": 'https://vercel.com', </p>
+            <p>     source: '/hello-vercel', </p>
+            <p>     destination: 'https://vercel.com', </p>
           <p>3. Please ensure to follow this Documentation where you just need to copy and paste the configs present under In-Application Redirects and replace it with the above mentioned values: https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#in-application-redirects</p> 
          <p>4. Please ensure to have re-deployed the product to reflect your latest cahnges.</p> 
 
