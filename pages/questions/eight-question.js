@@ -6,7 +6,7 @@ export default function EightQuestiont() {
     <>
       <h1>How could we improve or alter this familiarisation exercise</h1>
 
-        <p>I think the process is pretty amazing and it really challenges the candidate and this assesment will surely help to show candidate's true potential.</p>
+        <p>I think the process is pretty amazing and it really challenges the candidate and this assesment will surely help to show candidate&apos;s true potential.</p>
          
       <h2>
         <Link href="/">
